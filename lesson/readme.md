@@ -1,5 +1,7 @@
+# Schedule
+
 | Day 1   |     |
-| ------: | ------------------: |
+| ------  | :------------------: |
 | Morning | Introduction to the Shell and Cloud Computing |
 | 09:00	| Workshop overview |
 | 09:30	| Using cloud computing for genomics |
